@@ -59,7 +59,7 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: dmitryshapchenko/infra_actions:latest
+          tags: dmitryshapchenko/api_yamdb:latest
 
   deploy:
     runs-on: ubuntu-latest
