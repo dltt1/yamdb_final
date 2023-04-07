@@ -1,6 +1,11 @@
 # ГРУППОВОЙ ПРОЕКТ - API_YAMDB
 Стек технологий использованный в проекте: Python 3, Django 2.2.16, Django JWT 4.7.2
 
+workflow
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
+
 Разработчики:
 - [Елистратова Полина](https://github.com/TIoJIuHa)
 - [Саидов Ратмир](https://github.com/RatmirSaidov)
