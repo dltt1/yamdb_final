@@ -11,7 +11,7 @@ RUN mkdir /app
 # в директорию /app.
 COPY api_yamdb/requirements.txt /app
 
-# Выполнить установку зависимостей внутри контейнера.
+# Выполнить установку зависимостей внутри контейнера..
 RUN pip3 install -r app/requirements.txt --no-cache-dir
 
 # Скопировать содержимое директории /api_yamdb c локального компьютера
